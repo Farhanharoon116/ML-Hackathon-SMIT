@@ -81,7 +81,7 @@ Encoders sit inside a scikit-learn `Pipeline` / `ColumnTransformer`, so they are
 **Models compared** (80/20 train/test split, `random_state=42`): mean baseline, Linear Regression, Random Forest, Gradient Boosting.
 Metrics: MAE, RMSE, R², plus 5-fold cross-validated R² for the best model.
 
-**Results** (fill in after running):
+**Results**:
 | Model | MAE (min) | RMSE (min) | R² |
 |---|---|---|---|
 | Baseline | 7.431 | 9.226 | -0.000 |
