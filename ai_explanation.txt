@@ -1,0 +1,13 @@
+**Why deliveries are slower**
+
+- **Traffic jams** add the biggest delay: average time in a jam is **31 min**, 10 min longer than in low‑traffic (21.5 min).  
+- **Foggy weather combined with jams** is the worst case, pushing the average to **36.9 min**.  
+- **Longer trips** also cost time: each extra kilometre adds about **0.54 min**, and orders over 10 km take **30 min** (vs 22 min for 0‑5 km).  
+- **Multiple‑order runs** are inefficient: a single extra order raises average time from **23 min** (no extra) to **27 min**; two extra orders jump to **40 min** and three to **48 min**.  
+- **Semi‑urban zones** are the slowest area, with deliveries averaging **49.7 min**, almost 22 min more than metropolitan zones.
+
+**Three concrete actions**
+
+1. **Reroute or postpone deliveries during jam‑heavy periods** (especially when fog is forecast) and prioritize low‑traffic windows to cut 10 – 15 min per order.  
+2. **Limit multi‑order batches to one extra order**; beyond that, assign a dedicated rider to keep average time under 30 min.  
+3. **Create a “fast‑lane” for semi‑urban orders** – allocate more riders or smaller zones there to bring the 49.7‑min average down toward the city‑wide 27 min baseline.
