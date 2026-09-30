@@ -5,3 +5,4 @@ seaborn
 groq
 python-dotenv
 jupyter
+scikit-learn
